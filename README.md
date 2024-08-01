@@ -10,7 +10,7 @@ This project sets up an AWS infrastructure using Terraform. The infrastructure i
 
 ## Project Structure
 
-[![Architecture Diagram](structure.png)](structure.png)
+[![Architecture Diagram](architecture.png)](architecture.png)
 
 
 ## Infrastructure Components
